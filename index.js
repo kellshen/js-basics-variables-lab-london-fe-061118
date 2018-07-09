@@ -3,3 +3,4 @@ let companyName = 'Scuber';
 try {
   if(companyName != 'Scuber')
 }
+catch()
